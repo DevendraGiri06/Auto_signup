@@ -1,0 +1,7 @@
+. selenium documention link, where to learn. 
+
+https://www.selenium.dev/documentation/
+
+time links
+
+https://docs.python.org/3/library/time.html
